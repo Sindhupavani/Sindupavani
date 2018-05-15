@@ -1,0 +1,8 @@
+<suite name="Google1_suite">
+	<test name="gogle_search">
+		<parameter name="browser" value="firefox"/>
+		<classes>
+			<class name="mavenproj.Google1"/>
+		</classes>
+	</test>
+	</suite>
